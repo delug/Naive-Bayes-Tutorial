@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Naive-Bayes-Tutorial/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/delug/Naive-Bayes-Tutorial/main)
 
 # Naive Bayes Classifier Tutorial
 
